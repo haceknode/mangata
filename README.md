@@ -3,7 +3,7 @@
   
   "website": "https://www.githup.com/haceknode",
   
-  "description": "ı operator on same data",
+  "description": "I am in RC",
   
   "logo": "C:\Users\halil\Desktop\kripto resim screenshot",
   
