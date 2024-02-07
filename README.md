@@ -5,7 +5,7 @@
   
   "description": "I am in RC",
   
-  "logo": "C:\Users\halil\Desktop\kripto resim screenshot",
+  "logo": "https://r.resimlink.com/Kny6YO.png",
   
   "twitter": "https://www.twitter.com/hacekzk"
   
